@@ -17,7 +17,7 @@ The problem is to analyze this large dataset using Exploratory Data Analysis (ED
 # 💼 Business Objective
 The objective of this project is to analyze the UNGTA terrorism dataset to uncover meaningful patterns and trends that can help governments, researchers, and security agencies understand the global landscape of terrorism. By identifying high-risk regions, common attack methods, major terrorist groups, and casualty patterns, the analysis aims to support better decision-making and more effective counter-terrorism strategies.
 
-# EDA Workflow based on objective
+# EDA Workflow based on Objective
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1195b0f0-9cfc-4876-8b0b-9b69c268a628" />
 
 

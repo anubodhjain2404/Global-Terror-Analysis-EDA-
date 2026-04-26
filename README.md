@@ -40,6 +40,7 @@ The dataset was cleaned and prepared using the following steps:
 
 # 🔍 Exploratory Data Analysis
 EDA was performed to understand terrorism patterns and global trends.
+
 **Analysis Performed**
 
 * Terrorist attacks per year
@@ -63,3 +64,46 @@ The project includes multiple meaningful charts:
 * Heatmap: Country vs Attack Count
 * Correlation Heatmap (casualities and wounded)
 * Pair Plot (Year, casualities and wounded)
+
+# 📈 Key Insights
+* Terrorist attacks increased significantly after 2000
+* Middle East & North Africa region has highest attacks
+* Terrorism is concentrated in specific countries
+* Bombing and armed assault are most common attack types
+* Few terrorist groups dominate attack frequency
+* Casualties fluctuate with peaks in certain years
+* Some countries experience significantly higher casualties
+* High severity incidents are limited but impactful
+
+# 🛠️ Technologies Used
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Google Colab
+
+# 📌 Solution to Business Objective
+* Resource Allocation:
+  * Focus security resources on the most affected countries and regions identified from the analysis.
+* Targeted Counter-Terrorism Strategies:
+  * Prioritize monitoring of top terrorist groups and common attack/weapon types to prevent high-risk incidents.
+* Predictive Planning:
+  * Use trends over the years to forecast potential spikes in attacks, enabling proactive measures.
+* Infrastructure & Public Safety Measures:
+  * Strengthen security in areas with historically high casualties and common attack types.
+* International Collaboration:
+  * Share insights with global agencies to coordinate responses in regions with repeated attacks.
+* Continuous Monitoring & Analysis:
+  * Regularly update and analyze incident data to adapt strategies to changing patterns of terrorism.
+  
+**Overall:**
+By combining data-driven insights with proactive planning, the client can minimize casualties, protect assets, and improve regional stability, directly supporting their business objective.
+
+# 📌 Conclusion
+* The exploratory analysis of the United Nations Global Terrorism Dataset (1970–2017) revealed key patterns in global terrorist activities.
+* Trends over time show a rise in attacks post-2000, with notable spikes in specific regions like the Middle East, South Asia, and Western Europe.
+* Bombings and armed assaults are the most common attack types, and explosives and firearms are the weapons most frequently used.
+* A small number of terrorist groups are responsible for a large proportion of attacks, highlighting where counter-terrorism efforts should be concentrated.
+* Insights from casualties, attack types, and regions provide actionable information for governments, security agencies, and organizations to allocate resources, plan   preventive measures, and improve public safety.
+* Overall, this analysis demonstrates that data-driven insights can guide strategic decisions, helping reduce the impact of terrorism and improve regional security planning.

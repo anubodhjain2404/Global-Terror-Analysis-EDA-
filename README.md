@@ -1,13 +1,13 @@
 # UN Global-Terrorism-Analysis (EDA)
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/c8accd55-4a53-4c17-a0ce-d0a282a10684" />
+
 # 📌Project Overview
 The United Nations Global Terrorism Analysis (UNGTA) dataset provides a comprehensive record of over 180,000 terrorist incidents worldwide from 1970 to 2017. This project aims to perform an in-depth Exploratory Data Analysis (EDA) to understand global terrorism trends, regional patterns, major attack types, casualties, and the behavior of terrorist groups over nearly five decades.
 
 Through systematic data cleaning, preprocessing, descriptive analytics, and meaningful visualizations, the project uncovers important insights such as the rise of terrorism after 2000, the concentration of attacks in regions like the Middle East and South Asia, the dominance of bombing/explosion attacks, and the disproportionate involvement of a few highly active terror groups.
 
 The analysis utilizes Python libraries such as Pandas for data handling, NumPy for numerical operations, and Matplotlib/Seaborn for producing powerful visualizations. The outcome of this project provides policymakers, security agencies, and research analysts with valuable insights that can support better threat assessment, risk mitigation, and strategic planning.
-
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/c8accd55-4a53-4c17-a0ce-d0a282a10684" />
 
 # 🎯 Problem Statement
 Terrorism remains a major global threat, affecting public safety, international stability, and socioeconomic development. The United Nations Global Terrorism Analysis (UNGTA) dataset provides detailed records of terrorist incidents from 1970 to 2017. However, due to the dataset’s size and complexity, meaningful insights are not immediately visible.
@@ -16,6 +16,9 @@ The problem is to analyze this large dataset using Exploratory Data Analysis (ED
 
 # 💼 Business Objective
 The objective of this project is to analyze the UNGTA terrorism dataset to uncover meaningful patterns and trends that can help governments, researchers, and security agencies understand the global landscape of terrorism. By identifying high-risk regions, common attack methods, major terrorist groups, and casualty patterns, the analysis aims to support better decision-making and more effective counter-terrorism strategies.
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1195b0f0-9cfc-4876-8b0b-9b69c268a628" />
+
 
 # 📂 Dataset Information
 The Global Terrorism Dataset includes the following key variables:

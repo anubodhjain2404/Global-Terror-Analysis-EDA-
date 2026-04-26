@@ -7,6 +7,6 @@ Through systematic data cleaning, preprocessing, descriptive analytics, and mean
 
 The analysis utilizes Python libraries such as Pandas for data handling, NumPy for numerical operations, and Matplotlib/Seaborn for producing powerful visualizations. The outcome of this project provides policymakers, security agencies, and research analysts with valuable insights that can support better threat assessment, risk mitigation, and strategic planning.
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/42e80cb4-bf23-4a58-bce5-ef6f57041966" />
+<img width="555" height="333" alt="image" src="https://github.com/user-attachments/assets/42e80cb4-bf23-4a58-bce5-ef6f57041966" />
 
 

@@ -9,15 +9,15 @@ The analysis utilizes Python libraries such as Pandas for data handling, NumPy f
 
 <img width="555" height="333" alt="image" src="https://github.com/user-attachments/assets/42e80cb4-bf23-4a58-bce5-ef6f57041966" />
 
-# Problem Statement
+# 🎯 Problem Statement
 Terrorism remains a major global threat, affecting public safety, international stability, and socioeconomic development. The United Nations Global Terrorism Analysis (UNGTA) dataset provides detailed records of terrorist incidents from 1970 to 2017. However, due to the dataset’s size and complexity, meaningful insights are not immediately visible.
 
 The problem is to analyze this large dataset using Exploratory Data Analysis (EDA) techniques to identify patterns, trends, hotspots, major attack methods, and key terrorist groups. The objective is to uncover actionable insights that can help policymakers, researchers, and security agencies understand the historical behavior of terrorism and support better strategic planning.
 
-# Business Objective
+# 💼 Business Objective
 The objective of this project is to analyze the UNGTA terrorism dataset to uncover meaningful patterns and trends that can help governments, researchers, and security agencies understand the global landscape of terrorism. By identifying high-risk regions, common attack methods, major terrorist groups, and casualty patterns, the analysis aims to support better decision-making and more effective counter-terrorism strategies.
 
-# Dataset Information
+# 📂 Dataset Information
 The Global Terrorism Dataset includes the following key variables:
 
 * iyear – Year of incident
@@ -27,3 +27,39 @@ The Global Terrorism Dataset includes the following key variables:
 * gname – Terrorist group name
 * nkill – Number of people killed
 * nwound – Number of people wounded
+
+# 🧹 Data Preprocessing
+The dataset was cleaned and prepared using the following steps:
+* Removed duplicates to ensure each terrorist incident is counted only once.
+* Handled missing values:
+  * Filled numerical columns with 0.
+  * Filled categorical columns with "Unknown".
+* Dropped irrelevant or highly null columns that don’t contribute to analysis.
+* Converted data types where necessary (e.g., year to integer).
+* Verified dataset shape and readiness for analysis.
+
+# 🔍 Exploratory Data Analysis
+EDA was performed to understand terrorism patterns and global trends.
+**Analysis Performed**
+
+* Terrorist attacks per year
+* Country wise attack analysis
+* Region wise distribution
+* Attack type analysis
+* Terrorist group analysis
+* Casualty distribution
+* Total casualties over time
+* Region wise casualties
+* Country wise casualties
+
+# 📊 Visualizations Included
+The project includes multiple meaningful charts:
+* Attacks Over the Years
+* Most Affected Regions
+* Top 10 Countries with Highest Attacks
+* Type of attacks
+* Type of weapons used
+* Top Terrorist Groups
+* Heatmap: Country vs Attack Count
+* Correlation Heatmap (casualities and wounded)
+* Pair Plot (Year, casualities and wounded)

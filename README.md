@@ -1,4 +1,4 @@
-# UN Global-Terrorism-Analysis (EDA)
+# UN Global Terrorism Analysis (EDA)
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/c8accd55-4a53-4c17-a0ce-d0a282a10684" />
 
